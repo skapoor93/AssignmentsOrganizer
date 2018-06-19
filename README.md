@@ -1,1 +1,1 @@
-"AssignmentsOrganizer" 
+AssignmentsOrganizer
